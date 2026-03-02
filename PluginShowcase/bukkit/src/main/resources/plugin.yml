@@ -1,0 +1,6 @@
+name: YMLVersion
+version: '1.0'
+main: net.YMLVersion.Main
+api-version: '1.8'
+api: spigot
+authors: [ Yager400 ]
